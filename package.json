@@ -33,7 +33,7 @@
       "last 1 safari version"
     ]
   },
-  "main": "dist/index.js",
+  "main": "dist/modal.js",
   "module": "dist/index.js",
   "files": [
     "dist",
