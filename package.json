@@ -1,6 +1,6 @@
 {
   "name": "my-modal-component-library",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "scripts": {
     "build": "del dist babel src/lib --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,__snapshots__"
   },
@@ -41,10 +41,10 @@
       "last 1 safari version"
     ]
   },
-  "main": "src/index.js",
-  "module": "src/index.js",
+  "main": "modal.js",
+  "module": "modal.js",
   "files": [
-    "src"
+    "src/lib"
   ],
   "repository": {
     "type": "git",
